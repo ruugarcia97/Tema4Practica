@@ -38,11 +38,6 @@
     <string name="btn2">Foto 2</string>
     <string name="btn3">Foto 3</string>
     <string name="btn4">Foto 4</string>
-
-
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="textViewSeleccionaCiudad">Ciudad</string>
-    <string name="textViewSeleccionaPais">País</string>
     <string name="txtResultado">Resultado Primos</string>
 
 </resources>
