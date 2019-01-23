@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tema 4 Practica</string>
+    <string name="btnCalcular">Calcular Primos</string>
+    <string name="btnJuego">Juego Aciertos</string>
+    <string name="btnImagenenDes">Desplazar Imagenes</string>
+    <string name="btnImagenenSel">Selecciona Imagenes</string>
+    <string name="txtJuego1">Cuidades</string>
+    <string name="txtJuego2">Paises</string>
+    <string name="btnComprobar">Comprobar</string>
+    <string name="lblPrimos">Introduce un Numero para averiguar si es primo o no</string>
+    <!-- CIUDADES -->
+
+
+    <string name="londres">Londres</string>
+    <string name="argel">Argel</string>
+    <string name="paris">Paris</string>
+    <string name="buenosaires">Buenos Aires</string>
+    <string name="tokio">Tokio</string>
+    <string name="madrid">Madrid</string>
+    <string name="berlin">Berlin</string>
+    <string name="atenas">Atenas</string>
+    <!-- PAISES -->
+
+    <string name="reinounido">Reino Unido</string>
+    <string name="argelia">Argelia</string>
+    <string name="francia">Francia</string>
+    <string name="republicaArgentina">Republica Argentina</string>
+    <string name="japon">Japón</string>
+    <string name="espana">España</string>
+    <string name="grecia">Grecia</string>
+    <string name="alemania">Alemania</string>
+
+
+    <string name="correcto">Es Correcto</string>
+    <string name="nocorrecto">No es Correcto</string>
+    <string name="btnJugar">Jugar</string>
+    <string name="btn1">Foto 1</string>
+    <string name="btn2">Foto 2</string>
+    <string name="btn3">Foto 3</string>
+    <string name="btn4">Foto 4</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textViewSeleccionaCiudad">Ciudad</string>
+    <string name="textViewSeleccionaPais">País</string>
+    <string name="txtResultado">Resultado Primos</string>
+
+</resources>
+
