@@ -42,15 +42,15 @@ public class PantallaCalcularPrimos extends AppCompatActivity {
     private boolean esPrimo(int numero){
         boolean resultado = true;
         int sqrtNumero = (int) Math.floor(Math.sqrt(numero));
-        if ((numero & 1) > 0) { // bitwise opeator para saber si es impar
-            for (int i = 3; i <= sqrtNumero; i+=2) { // iteramos sobre los impares
+        if ((numero & 1) > 0) { 
+            for (int i = 3; i <= sqrtNumero; i+=2) { 
                 if (numero%i == 0){
                     resultado = false;
                     break;
                 }
             }
         } else {
-            resultado = false; // pues es par
+            resultado = false; 
         }
         return resultado;
     }
