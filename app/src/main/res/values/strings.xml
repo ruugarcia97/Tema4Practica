@@ -38,11 +38,7 @@
     <string name="btn2">Foto 2</string>
     <string name="btn3">Foto 3</string>
     <string name="btn4">Foto 4</string>
-<<<<<<< HEAD
-=======
 
-
->>>>>>> Partes del proyecto para ser visualizado correctamente
     <string name="txtResultado">Resultado Primos</string>
 
 </resources>
